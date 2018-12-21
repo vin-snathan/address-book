@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+}
+
+form {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.table-wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.table-wrapper table {
+	width: 100%;
+}
